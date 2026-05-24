@@ -162,7 +162,7 @@ You can tweak these values in `hand_game.py`:
 ## 📚 Built For
 
 > 🎓 Final Project — *Pengolahan Citra Digital* (Digital Image Processing)  
-> Semester 6 — Universitas / Politeknik
+> Semester 6 — Politeknik Negeri Semarang
 
 ---
 
