@@ -169,7 +169,7 @@ You can tweak these values in `hand_game.py`:
 ## 📺 Tutorial Video
 
 Watch the full build tutorial on YouTube:  
-**👉 [I Built a Game with My BARE HANDS! 🖐️ Python + OpenCV](#)**
+**👉 [I Built a Game with My BARE HANDS! 🖐️ Python + OpenCV](https://youtu.be/g9fOaO6jZsk)**
 
 ---
 
