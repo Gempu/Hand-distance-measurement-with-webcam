@@ -49,7 +49,7 @@
 
 **1. Clone this repository**
 ```bash
-git clone https://github.com/username/hand-gesture-game.git
+git clone https://github.com/Gempu/Hand-distance-measurement-with-webcam.git
 cd hand-gesture-game
 ```
 
