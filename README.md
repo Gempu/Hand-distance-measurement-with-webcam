@@ -169,7 +169,7 @@ You can tweak these values in `hand_game.py`:
 ## 📺 Tutorial Video
 
 Watch the full build tutorial on YouTube:  
-**👉 [Your Webcam Can Measure Distance?! — Python + OpenCV](#)**
+**👉 [I Built a Game with My BARE HANDS! 🖐️ Python + OpenCV](#)**
 
 ---
 
